@@ -3,8 +3,8 @@
 
 include:
   - board: nice_nano
-    shield: lily58_left nice_view_adapter nice_view
+    shield: nice_view_adapter nice_view lily58_left
   - board: nice_nano
-    shield: lily58_right nice_view_adapter nice_view
+    shield: nice_view_adapter nice_view lily58_right
   - board: nice_nano
     shield: settings_reset
